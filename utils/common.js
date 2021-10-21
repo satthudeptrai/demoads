@@ -1,0 +1,19 @@
+export const listPosition = [
+  'feed',
+  'stream',
+  'marketplace',
+  'video_feeds',
+  '',
+  'explore',
+  'messenger_home',
+  'story',
+  'story',
+  'story',
+  '',
+  'search',
+  '',
+  'instant_article',
+  '',
+  '',
+  ''
+]

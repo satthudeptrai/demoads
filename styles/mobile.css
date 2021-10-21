@@ -1,0 +1,187 @@
+.list-style1 {
+  color: #4f4f4f;
+}
+
+.dot1 {
+  width: 6px;
+  height: 6px;
+  background: #bdbdbd;
+  margin-right: 4px;
+  border-radius: 50%;
+}
+
+.tag-style1 {
+  font-weight: 400;
+  display: initial;
+  padding: 2px 7px 2px 12px;
+  border-radius: 50px;
+}
+
+.btn-create-ad {
+  background: #fff7f3;
+  border-radius: 6px;
+  color: #ff5f0b;
+  padding: 6px 15px 6px 16px;
+  border: none;
+}
+
+.card-1 {
+  font-size: 12px !important;
+  padding: 7.5px 0;
+  margin-bottom: 4px;
+}
+
+.card-1:hover {
+  background: #FFF7F3;
+  color: #FF5F0B;
+}
+
+.card-1 i {
+  margin-right: 12px;
+}
+.dialog-type2 {
+  height: 100vh;
+}
+.dialog-type2 .el-dialog__header {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px -1px 0px inset;
+  padding: 10px 0px 8px 24px;
+}
+.dialog-type2 .el-dialog__body {
+  padding: 0px;
+  height: calc(100vh - 103px);
+  overflow-y: auto;
+}
+.dialog-type2 .el-dialog__footer {
+  height: 64px;
+  align-items: center !important;
+}
+.dialog-type2 .el-dialog__footer .dialog-footer{
+  display: block !important;
+  margin-right: 18px !important;
+}
+.radio-type2 {
+  width: 282px;
+  height: calc(100vh - 75px);
+  top: 39px
+}
+.radio-type2 .el-radio {
+  width: 262px;
+  flex-direction: row-reverse;
+}
+.radio-type2 .el-radio__input {
+  margin-right: 16px;
+}
+.radio-type2 .el-radio__input.is-checked+.el-radio__label {
+  color: #606266;
+}
+.radio-type3 {
+  width: 100%;
+  height: calc(100vh - 75px);
+  top: 39px
+}
+.radio-type3 .el-radio-group {
+  width: 100%;
+}
+.radio-type3 .el-radio {
+  width: 100%;
+  flex-direction: row-reverse;
+  display: flex;
+  justify-content: space-between;
+}
+.radio-type3 .el-radio__input {
+  margin-right: 16px;
+}
+.radio-type3 .el-radio__input.is-checked+.el-radio__label {
+  color: #606266;
+}
+.radio-type4 {
+  width: 100%;
+}
+.radio-type4 .el-radio-group {
+  width: 100%;
+}
+.radio-type4 .el-radio {
+  width: 100%;
+  flex-direction: row-reverse;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: inset 0px -1px 0px rgba(0, 0, 0, 0.1);
+  height: 44px;
+  align-items: center;
+  margin-top: 8px;
+}
+.radio-type4 .el-radio__input {
+  margin-right: 16px;
+}
+
+.radio-type5 {
+  width: 100%;
+}
+.radio-type5 .el-radio-group {
+  width: 100%;
+}
+.radio-type5 .el-radio {
+  width: 100%;
+  flex-direction: row-reverse;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: inset 0px -1px 0px rgba(0, 0, 0, 0.1);
+  height: 40px;
+  align-items: center;
+  margin-top: 4px;
+}
+.radio-type5 .el-radio__input {
+  margin-right: 16px;
+}
+.input-type1 .el-input__inner {
+  border-radius: 50px !important;
+}
+.icon-mobile1 {
+  background: #C4C4C4;
+  border-radius: 2px;
+  width: 32px;
+  height: 4px;
+  margin: auto
+}
+.radio-cam .el-radio{
+  display: flex;
+  align-items: center;
+  height: 40px;
+  margin-left: 8px;
+}
+.radio-cam .el-radio .el-radio__label {
+  line-height: 120% !important;
+}
+.dropdown-type1 {
+  height: 155px;
+  width: 224px;
+  bottom: -163px;
+  left: 32px;
+  z-index: 2;
+}
+.dropdown-type1 .level {
+  height: 44px;
+  display: flex;
+  align-items: center;
+}
+.dropdown-type1 .level:hover {
+  border-left: solid 2px #FF5F0B;
+}
+.dropdown-type1 .level-1 {
+  padding-left: 18.4px;
+}
+.dropdown-type1 .level-2 {
+  padding-left: 28px;
+}
+.dropdown-type1 .level-3 {
+  padding-left: 35px;
+}
+.dropdown-type2 {
+  height: 258px;
+  width: 168px;
+  box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1), 0px 4px 6px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  z-index: 2;
+  top: 28px;
+  right: 20px;
+}
